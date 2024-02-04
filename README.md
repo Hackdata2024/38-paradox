@@ -118,6 +118,8 @@ Defines the structure of the webpage.
 Includes input forms, buttons, and other HTML elements for user interaction.
 Connects to external stylesheets and scripts.
 
+We have used Webflow for the layout and frontend technologies
+
 we have made 6 html files
 
 index.html >> the basic layout of our website is built
